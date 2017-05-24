@@ -14,7 +14,6 @@ class ViewController: UIViewController {
     
     var number :Int = 0
     
-    
     @IBAction func plus(){
         number = number + 1
         
